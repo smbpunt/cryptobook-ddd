@@ -16,4 +16,11 @@ class User
     {
         return $this->wallets;
     }
+
+    public function addWallet(Wallet $walletToAdd): self
+    {
+        $this->wallets[] = $walletToAdd;
+
+        return $this;
+    }
 }
