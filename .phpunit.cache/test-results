@@ -1,0 +1,1 @@
+{"version":1,"defects":{"WalletTest::testWallet":5,"App\\Tests\\NewUserTest::testNewUserHasDefaultWallet":7},"times":{"WalletTest::testWallet":0.002,"App\\Tests\\NewUserTest::testNewUserHasDefaultWallet":0.002,"App\\Tests\\User\\NewUserTest::testNewUserHasDefaultWallet":0.002}}
